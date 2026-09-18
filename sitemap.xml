@@ -5,23 +5,23 @@
     <priority>1.00</priority>
   </url>
   <url>
-    <loc>https://toolaadi.github.io/age-calculator</loc>
+    <loc>https://toolaadi.github.io/age.html</loc>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://toolaadi.github.io/percentage-calculator</loc>
+    <loc>https://toolaadi.github.io/percentage.html</loc>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://toolaadi.github.io/emi-calculator</loc>
+    <loc>https://toolaadi.github.io/emi.html</loc>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://toolaadi.github.io/unit-converter</loc>
+    <loc>https://toolaadi.github.io/unit.html</loc>
     <priority>0.80</priority>
   </url>
   <url>
-    <loc>https://toolaadi.github.io/word-counter</loc>
+    <loc>https://toolaadi.github.io/word.html</loc>
     <priority>0.80</priority>
   </url>
 </urlset>
